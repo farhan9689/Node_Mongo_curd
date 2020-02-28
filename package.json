@@ -1,0 +1,17 @@
+{
+  "name": "fastlibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "farhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^2.2.36",
+    "redis": "^2.8.0"
+  }
+}
